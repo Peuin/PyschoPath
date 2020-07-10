@@ -1,0 +1,49 @@
+@font-face {
+    font-family: 'Helvetica Neue';
+    src: url('OTF/HelveticaNeue.otf') format('otf')
+}
+
+@font-face {
+    font-family: 'Helvetica Neue Bold';
+    src: url('OTF/HelveticaNeue-Bold.otf') format('otf')
+}
+
+@font-face {
+    font-family: 'Helvetica Neue CondensedBlack';
+    src: url('OTF/HelveticaNeue-CondensedBlack.otf') format('otf')
+}
+
+@font-face {
+    font-family: 'Helvetica Neue CondensedBold';
+    src: url('OTF/HelveticaNeue-CondensedBold.otf') format('otf')
+}
+
+@font-face {
+    font-family: 'HelveticaNeue Italic';
+    src: url('OTF/HelveticaNeue-Italic.otf') format('otf')
+}
+
+@font-face {
+    font-family: 'Helvetica Neue Light';
+    src: url('OTF/HelveticaNeue-Light.otf') format('otf')
+}
+
+@font-face {
+    font-family: 'Helvetica Neue LightItalic';
+    src: url('OTF/HelveticaNeue-LightItalic.otf') format('otf')
+}
+
+@font-face {
+    font-family: 'Helvetica Neue Medium';
+    src: url('OTF/HelveticaNeue-Medium.otf') format('otf')
+}
+
+@font-face {
+    font-family: 'Helvetica Neue UltraLight';
+    src: url('OTF/HelveticaNeue-UltraLight.otf') format('otf')
+}
+
+@font-face {
+    font-family: 'Helvetica Neue UltraLightItalic';
+    src: url('OTF/HelveticaNeue-UltraLightItalic.otf') format('otf')
+}
