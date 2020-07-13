@@ -26,7 +26,7 @@
         <?php endif; ?>
         <?php if (in_array(8, $user['group_permission'])) : ?>
             <li id="revenue"><a href="revenue"><i class="fa fa-signal"></i>Doanh số</a></li>
-     <!--<?php endif; ?>
+     <?php endif; ?>
         <?php if (in_array(9, $user['group_permission'])) : ?>
             <li id="receipt"><a href="receipt"><i class="fa fa-file-text"></i>Phiếu thu</a></li>
         <?php endif; ?>
@@ -38,6 +38,6 @@
         <?php endif; ?>
         <?php if (in_array(11, $user['group_permission'])) : ?>
             <li id="setting"><a href="setting"><i class="fa fa-cogs"></i>Thiết lập</a></li>
-        <?php endif; ?> -->
+        <?php endif; ?>
     </ul>
 </div>
